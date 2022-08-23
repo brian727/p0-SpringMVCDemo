@@ -1,0 +1,10 @@
+brian\com\service\DemoService.class
+brian\com\model\ToDoItem.class
+brian\com\controller\ToDoItemController.class
+brian\com\config\WebAppInitializer.class
+brian\com\model\ToDoData.class
+brian\com\config\WebConfig.class
+brian\com\controller\DemoController.class
+brian\com\service\DemoServiceImpl.class
+brian\com\util\Mappings.class
+brian\com\util\ViewNames.class
